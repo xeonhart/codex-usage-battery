@@ -1,0 +1,4 @@
+*.pdb
+*.tmp
+*.log
+__pycache__/
